@@ -1,4 +1,4 @@
-# Susceptible-Infected-Removed-Model
+# Susceptible-Infected-Removed Model
 
 This model is simple simulation of pandemic. In this simulation we have three type of people: susceptible - it's person who can be infected, infected and removed, who represent dead or cured unit.
 
