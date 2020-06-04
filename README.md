@@ -10,4 +10,4 @@ This work is inspired, by: https://www.youtube.com/watch?v=gxAaO2rsdIs. Thank yo
 
 Final result:
 
-[![Watch the video](https://img.youtube.com/vi/-t2xeYIK8HY/maxresdefault.jpg)](https://youtu.be/-t2xeYIK8HY)
+[![Watch the video](https://img.youtube.com/-t2xeYIK8HY/default.jpg)](https://youtu.be/-t2xeYIK8HY)
