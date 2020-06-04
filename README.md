@@ -10,4 +10,4 @@ This work is inspired, by: https://www.youtube.com/watch?v=gxAaO2rsdIs. Thank yo
 
 Final result:
 
-![alt text](https://github.com/KrzysztofSoja/Susceptible-Infected-Removed-Model/blob/master/pandemic_step.png)
+[![Watch the video](https://img.youtube.com/vi/-t2xeYIK8HY/maxresdefault.jpg)](https://youtu.be/-t2xeYIK8HY)
